@@ -13,3 +13,5 @@ var result2 = num1*num3+num6 / num2
 console.log(result2);
 //Class One End
 //Class 2 Start
+
+var a:number = 10;
