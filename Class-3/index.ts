@@ -176,3 +176,4 @@ while (index<=5) {
 }
 
 
+var a:number = 10;
